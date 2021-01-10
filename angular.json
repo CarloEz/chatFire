@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "chatfire"
+    }
+  },
+  "defaultProject": "chatfire",
+  "cli": {
+    "analytics": false
+  }
 }
